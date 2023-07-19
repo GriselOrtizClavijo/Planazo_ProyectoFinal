@@ -1,0 +1,13 @@
+<div>
+<h2>Normas</h2>
+<p>La aceptación de mascotas en nuestras propuestas, tanto en alojamiento como en traslados y actividades queda sujeta al prestador individual del servicio.</p>
+</div>
+<div>
+<h2>Edad</h2>
+<p>Consideramos para las reservas como ‘Menores’ a niños de 0 a 17 años inclusive, y ‘Mayores’ a todos aquellos de 18 años en adelante.</p>
+</div>
+<div>
+<h2>Cancelaciones</h2>
+<p>Recibirás un reembolso del 100% del precio del tour si cancelas al menos 10 días antes de la fecha de inicio del tour. Las cancelaciones realizadas dentro de los 9 días previos a la fecha de inicio del tour no son reembolsables.</p>
+</div>
+

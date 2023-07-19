@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"title": "Tarjeta de crédito"
+	},
+	{
+		"id": 2,
+		"title": "Tarjeta débito"
+	},
+	{
+		"id": 3,
+		"title": "Mercado Pago"
+	},
+	{
+		"id": 4,
+		"title": "PayPal"
+	},
+	{
+		"id": 5,
+		"title": "PayU"
+	}
+]

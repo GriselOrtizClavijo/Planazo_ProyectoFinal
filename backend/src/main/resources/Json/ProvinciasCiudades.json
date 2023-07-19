@@ -1,0 +1,216 @@
+{
+  "provincias": [
+    {
+      "nombre": "Buenos Aires",
+      "ciudades": [
+        "La Plata",
+        "Mar del Plata",
+        "Bahía Blanca",
+        "Lomas de Zamora"
+      ]
+    },
+    {
+      "nombre": "Catamarca",
+      "ciudades": [
+        "San Fernando del Valle de Catamarca",
+        "Andalgalá",
+        "Belén",
+        "Santa María"
+      ]
+    },
+    {
+      "nombre": "Chaco",
+      "ciudades": [
+        "Resistencia",
+        "Barranqueras",
+        "Presidencia Roque Sáenz Peña",
+        "Villa Ángela"
+      ]
+    },
+    {
+      "nombre": "Chubut",
+      "ciudades": [
+        "Comodoro Rivadavia",
+        "Puerto Madryn",
+        "Trelew",
+        "Rawson"
+      ]
+    },
+    {
+      "nombre": "Ciudad Autónoma de Buenos Aires",
+      "ciudades": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "nombre": "Córdoba",
+      "ciudades": [
+        "Córdoba",
+        "Villa María",
+        "Río Cuarto",
+        "San Francisco"
+      ]
+    },
+    {
+      "nombre": "Corrientes",
+      "ciudades": [
+        "Corrientes",
+        "Goya",
+        "Mercedes",
+        "Curuzú Cuatiá"
+      ]
+    },
+    {
+      "nombre": "Entre Ríos",
+      "ciudades": [
+        "Paraná",
+        "Concordia",
+        "Gualeguaychú",
+        "Colón"
+      ]
+    },
+    {
+      "nombre": "Formosa",
+      "ciudades": [
+        "Formosa",
+        "Clorinda",
+        "Pirané",
+        "Laguna Naineck"
+      ]
+    },
+    {
+      "nombre": "Jujuy",
+      "ciudades": [
+        "San Salvador de Jujuy",
+        "Palpalá",
+        "San Pedro",
+        "Libertador General San Martín"
+      ]
+    },
+    {
+      "nombre": "La Pampa",
+      "ciudades": [
+        "Santa Rosa",
+        "General Pico",
+        "Toay",
+        "General Acha"
+      ]
+    },
+    {
+      "nombre": "La Rioja",
+      "ciudades": [
+        "La Rioja",
+        "Chilecito",
+        "Aimogasta",
+        "Chepes"
+      ]
+    },
+    {
+      "nombre": "Mendoza",
+      "ciudades": [
+        "Mendoza",
+        "San Rafael",
+        "Godoy Cruz",
+        "Luján de Cuyo"
+      ]
+    },
+    {
+      "nombre": "Misiones",
+      "ciudades": [
+        "Posadas",
+        "Eldorado",
+        "Oberá",
+        "Apostoles"
+      ]
+    },
+    {
+      "nombre": "Neuquén",
+      "ciudades": [
+        "Neuquén",
+        "San Martín de los Andes",
+        "Cutral Có",
+        "Plottier"
+      ]
+    },
+    {
+      "nombre": "Río Negro",
+      "ciudades": [
+        "Viedma",
+        "San Carlos de Bariloche",
+        "General Roca",
+        "Cipolletti"
+      ]
+    },
+    {
+      "nombre": "Salta",
+      "ciudades": [
+        "Salta",
+        "Orán",
+        "Tartagal",
+        "Cafayate"
+      ]
+    },
+    {
+      "nombre": "San Juan",
+      "ciudades": [
+        "San Juan",
+        "Rivadavia",
+        "Rawson",
+        "Santa Lucía"
+      ]
+    },
+    {
+      "nombre": "San Luis",
+      "ciudades": [
+        "San Luis",
+        "Villa Mercedes",
+        "Merlo",
+        "Justo Daract"
+      ]
+    },
+    {
+      "nombre": "Santa Cruz",
+      "ciudades": [
+        "Río Gallegos",
+        "Caleta Olivia",
+        "El Calafate",
+        "Puerto Deseado"
+      ]
+    },
+    {
+      "nombre": "Santa Fe",
+      "ciudades": [
+        "Rosario",
+        "Santa Fe",
+        "Rafaela",
+        "Venado Tuerto"
+      ]
+    },
+    {
+      "nombre": "Santiago del Estero",
+      "ciudades": [
+        "Santiago del Estero",
+        "La Banda",
+        "Termas de Río Hondo",
+        "Fernández"
+      ]
+    },
+    {
+      "nombre": "Tierra del Fuego",
+      "ciudades": [
+        "Ushuaia",
+        "Río Grande",
+        "Tolhuin"
+      ]
+    },
+    {
+      "nombre": "Tucumán",
+      "ciudades": [
+        "San Miguel de Tucumán",
+        "Yerba Buena",
+        "Tafí Viejo",
+        "Banda del Río Salí"
+      ]
+    }
+  ]
+}

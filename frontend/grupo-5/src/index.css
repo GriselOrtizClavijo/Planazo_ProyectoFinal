@@ -1,0 +1,173 @@
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.product-card-placeholder {
+		@apply flex w-full max-w-3xl bg-slate-50 animate-pulse shadow-lg p-3 h-36;
+	}
+
+	.product-container {
+		@apply grid grid-cols-1 w-full gap-3;
+	}
+
+	.product-card {
+		@apply flex w-full h-36 bg-white shadow-lg gap-3 p-3 cursor-pointer relative hover:shadow-xl duration-200;
+	}
+
+	.product-item-placeholder {
+		@apply flex w-full max-w-3xl bg-slate-50 animate-pulse shadow-lg p-3 h-[104px];
+	}
+
+	.product-item {
+		@apply flex w-full min-h-[100px] bg-white shadow-lg gap-3 p-3 items-center cursor-pointer hover:shadow-xl duration-200;
+	}
+
+	.category-item {
+		@apply flex w-full min-h-[100px] bg-white shadow-lg gap-3 p-3 items-center cursor-pointer hover:shadow-xl duration-200;
+	}
+
+	.booking-item {
+		@apply flex w-full min-h-[120px] h-[120px] bg-white sm:rounded-md shadow-lg gap-3 p-3 items-center cursor-pointer hover:shadow-xl duration-200;
+	}
+
+	.addProduct-form {
+		@apply bg-white p-6 rounded-lg grid grid-cols-2 gap-2;
+	}
+
+	.addProduct-form-item {
+		@apply col-span-2;
+	}
+
+	.addProduct-form-container-item {
+		@apply grid-cols-1;
+	}
+
+	/* Scrollbar */
+	.custom-scrollbar::-webkit-scrollbar {
+		@apply h-[10px];
+	}
+
+	.custom-scrollbar::-webkit-scrollbar-track {
+		@apply bg-slate-400/30 rounded-full mx-6 lg:mx-0;
+	}
+
+	.custom-scrollbar::-webkit-scrollbar-thumb {
+		@apply bg-pink-700 rounded-full;
+	}
+
+	.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+		@apply bg-pink-800 cursor-pointer;
+	}
+
+	.gallery {
+		@apply w-full grid grid-cols-4 gap-2 sm:grid-rows-2;
+	}
+
+	.gallery button {
+		@apply hidden col-span-1 h-[100px] sm:h-[196px] row-span-1 overflow-hidden sm:block;
+	}
+
+	.gallery button:first-child {
+		@apply h-[250px] block col-span-4 sm:col-span-2 sm:row-span-2 sm:h-[400px] overflow-hidden;
+	}
+
+	.gallery img {
+		@apply object-cover h-full w-full cursor-pointer hover:scale-105 duration-100;
+	}
+
+	.pattern-bg {
+		background-image: url('assets/img/Pattern.svg');
+		background-repeat: repeat;
+		background-size: 300px 300px;
+	}
+
+	.login-pattern-bg {
+		background-image: url('assets/img/PatternLogin.svg');
+		background-repeat: repeat;
+		background-size: 300px 300px;
+	}
+
+	.policies {
+		@apply grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 md:gap-10 md:grid-cols-3;
+	}
+
+	.policies > div {
+		@apply flex flex-col gap-2 col-span-1;
+	}
+
+	.policies h2 {
+		@apply text-lg font-semibold text-indigo-800;
+	}
+
+	.policies p {
+		@apply text-justify;
+	}
+
+	.table-subtotals {
+		@apply table-auto w-full divide-y divide-gray-200;
+	}
+
+	.table-subtotals th {
+		@apply py-2 px-1 uppercase;
+	}
+
+	.table-subtotals td {
+		@apply py-2 px-1;
+	}
+
+	/* sm */
+	@media (min-width: 640px) {
+		.product-card-placeholder {
+			@apply rounded-lg;
+		}
+
+		.product-card {
+			@apply rounded-lg;
+		}
+
+		.product-item-placeholder {
+			@apply rounded-lg;
+		}
+
+		.product-item {
+			@apply rounded-lg;
+		}
+
+		.category-item {
+			@apply rounded-lg;
+		}
+
+		.addProduct-form-item {
+			@apply col-span-1;
+		}
+
+		.addProduct-form-container-item {
+			@apply grid-cols-2;
+		}
+
+		.product-container {
+			@apply px-6 grid-cols-2;
+		}
+	}
+
+	/* md */
+	@media (min-width: 768px) {
+	}
+
+	/* lg */
+	@media (min-width: 1024px) {
+		.product-container {
+			@apply px-0;
+		}
+	}
+
+	/* xl */
+	@media (min-width: 1280px) {
+	}
+
+	/* 2xl */
+	@media (min-width: 1536px) {
+	}
+}
