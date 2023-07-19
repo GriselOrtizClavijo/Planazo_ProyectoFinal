@@ -11,6 +11,16 @@ Ocampo, Maximiliano
 Sallietti, María Luz
 Segurado Nicolás
 
+## Responsabilidades
+Ortiz Clavijo, Grisel : Backend
+Ibarra Ibañez, William : Infraestructura
+Kassardjian, Pedro: Testing
+Ocampo, Maximiliano: Apoyo en Backend
+Sallietti, María Luz: Bases de Datos y Apoyo en backend
+Segurado Nicolás: Frontend
+
+
+
 ## Descripción
 Este proyecto consiste en una aplicación capaz de realizar las operaciones básicas de creación, lectura, actualización y eliminación (CRUD) de reservas, productos, usuarios, categorías, y ciudades. La aplicación está compuesta por una API RESTful implementada con Spring Boot y una interfaz de usuario (UI) implementada con la biblioteca de JavaScript React y Typescript.
 
