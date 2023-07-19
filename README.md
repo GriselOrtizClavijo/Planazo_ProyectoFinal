@@ -5,20 +5,20 @@ Planazo, un sitio de reservas de experiencias turísticas inolvidables.
 Proyecto final de la carrera Certified Tech Developer - Digital House
 
 ## Integrantes
-Ortiz Clavijo, Grisel
-Ibarra Ibañez, William
-Kassardjian, Pedro
-Ocampo, Maximiliano
-Sallietti, María Luz
-Segurado Nicolás
+Ortiz Clavijo, Grisel  
+Ibarra Ibañez, William  
+Kassardjian, Pedro  
+Ocampo, Maximiliano  
+Sallietti, María Luz  
+Segurado Nicolás  
 
 ## Responsabilidades
-Ortiz Clavijo, Grisel : Backend
-Ibarra Ibañez, William : Infraestructura
-Kassardjian, Pedro: Testing
-Ocampo, Maximiliano: Apoyo en Backend
-Sallietti, María Luz: Bases de Datos y Apoyo en backend
-Segurado Nicolás: Frontend
+Ortiz Clavijo, Grisel : Backend  
+Ibarra Ibañez, William : Infraestructura  
+Kassardjian, Pedro: Testing  
+Ocampo, Maximiliano: Apoyo en Backend  
+Sallietti, María Luz: Bases de Datos y Apoyo en backend  
+Segurado Nicolás: Frontend  
 
 
 
