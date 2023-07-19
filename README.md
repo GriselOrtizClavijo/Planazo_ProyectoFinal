@@ -1,6 +1,6 @@
 # Equipo 05
 
-## Nombre del proyecto
+## Planazo
 Planazo, un sitio de reservas de experiencias turísticas inolvidables.
 Proyecto final de la carrera Certified Tech Developer - Digital House
 
